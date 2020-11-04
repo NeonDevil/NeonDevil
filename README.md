@@ -4,6 +4,11 @@ I've been doing web stuff, IT stuff, and CAD stuff since the 2000s.
 
 ## Technologies & Tools
 
+### Collab
+![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=eee&labelColor=F05032) 
+![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=eee&labelColor=181717) 
+![](https://img.shields.io/badge/-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=eee&labelColor=FCA121) 
+
 ### Code
 ![](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white&color=eee&labelColor=777BB4) 
 ![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=white&labelColor=E34F26)
@@ -18,11 +23,11 @@ I've been doing web stuff, IT stuff, and CAD stuff since the 2000s.
 
 ### CADD
 ![](https://img.shields.io/badge/-Autodesk_Inventor-informational?style=flat&logo=Autodesk&logoColor=333&color=white&labelColor=0696D7)
-![](https://img.shields.io/badge/-3DS_Solidworks-informational?style=flat&logo=Dassault-Systèmes&logoColor=fff&color=white&labelColor=005386)
+![](https://img.shields.io/badge/-3DS_Solidworks-informational?style=flat&logo=dassault-systèmes&logoColor=fff&color=white&labelColor=005386)
 
 ### Make
 ![](https://img.shields.io/badge/-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=eee&labelColor=00979D) 
-![](https://img.shields.io/badge/3D_-Prusa_I3_mk3-informational?style=flat&logoColor=white&color=orange) 
+![](https://img.shields.io/badge/3D_-Prusa_I3_mk3-informational?style=flat&logoColor=black&color=eee&labelColor=orange) 
 
 
 <!--
