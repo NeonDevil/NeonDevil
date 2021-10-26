@@ -19,7 +19,8 @@ I've been doing web stuff, IT stuff, and CAD stuff since the 2000s.
 ### Database
 ![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=eee&labelColor=4479A1) 
 ![](https://img.shields.io/badge/-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=eee&labelColor=CC2927) 
-![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=eee&labelColor=47A248) 
+![](https://img.shields.io/badge/-PL/SQL-informational?style=flat&logo=Oracle&logoColor=white&color=eee&labelColor=c74634)
+![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=eee&labelColor=47A248)
 
 ### CADD
 ![](https://img.shields.io/badge/-Autodesk_Inventor-informational?style=flat&logo=Autodesk&logoColor=333&color=white&labelColor=0696D7)
